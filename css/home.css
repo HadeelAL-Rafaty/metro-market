@@ -1,0 +1,772 @@
+@font-face {
+    font-family: "koff";
+    src: url(../font/NotoKufiArabic-VariableFont_wght.ttf);
+  }
+
+  html {
+      font-size: 14px;
+  }
+body {
+    font-family: "koff", sans-serif;
+}
+
+.img1{
+top:20px;
+left: 1469px;
+right: 280px;
+width: 171px;
+height: 60px;
+display: fixed;
+margin-top: 7px;
+}
+
+li.nav-item.active a.base ,
+    .h ul li a:hover{
+ border-bottom: 5px solid #DB242C;
+ text-decoration: none;
+ border-radius: 5%;
+
+ transition: .15s;
+
+}
+hr{
+    width: 1920px;
+    height: 2px; 
+}
+.navbar-area [class*="border"], hr {
+    border-color: #F7F7F7 ;
+}
+
+
+   .cover.img {
+    width:100%;
+    height:537px;
+}
+
+.li1{
+    border-left: 1px  solid #f7f7f7;
+    border-right: 1px solid #f7f7f7;
+    padding-left: 50px;
+    padding-right: 60px;
+    text-align: center;
+}
+.border{
+    border-bottom: 1px solid #f7f7f7!important;
+    border: 1px solid #f7f7f7!important;
+
+}
+.li2{
+    padding-right: 48px;
+    text-align: center;
+    left: 1347px;
+    padding-top:19px ;
+
+}
+.fa-solid.fa-magnifying-glass {
+    color: #DB242C;
+}
+
+.li3{
+    border-left: 1px  solid #f7f7f7;
+    padding-left: 200px;
+    font-size: 14px;
+    padding-top: 25px;
+    padding-right: 8px;
+
+/* UI Properties */
+text-align: right;
+font: normal normal normal 14px/14px Noto Kufi Arabic;
+color: #898B92;
+
+}
+.li4{
+    padding-right: 30px;
+    text-align: center;
+    color:#ffffff;
+    padding-top: 19px;
+
+
+}
+.li5{
+    border-left: 1px  solid #f7f7f7;
+    padding-left: 24px;
+
+    text-align: center;
+
+
+}
+.li6{
+    padding-right: 30px;
+    text-align: center;
+    padding-top: 19px;
+
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #DB242C;
+    border-radius: 50%;
+    display: inline-block;
+    color:#ffffff;
+    font: normal normal bold 8px/13px Noto Kufi Arabic;
+
+  }
+
+.sec{
+    position: relative;
+    right: -10px;
+    top:-22px !important;
+}
+.counter.counter-lg.h {
+    top: -44px !important;
+}
+.counter.counter-lg {
+    top: -33px !important;
+}
+
+.li7{
+    border-left: 1px  solid #f7f7f7;
+    padding-right: 8px;
+    padding-left: 26px;
+    font-size: 10px;
+    padding-top: 25px;
+    text-align: right;
+    font: normal normal normal 10px/13px Noto Kufi Arabic;
+    color: #707070;
+
+
+}
+.li8{
+    padding-right: 24px;
+    text-align: center;
+    padding-top: 19px;
+    padding-left: 8px;
+
+}
+.li9{
+    border-left: 1px  solid #f7f7f7;
+    padding-left: 28px;
+    font-size: 10px;
+    padding-top: 25px;
+    text-align: right;
+    font: normal normal normal 10px/13px Noto Kufi Arabic;
+    color: #707070;
+
+}
+.border-right{
+    border-right:1px  solid #f7f7f7 !important ;
+
+}
+.border-left{
+    border-left:1px  solid #f7f7f7 !important ;
+    padding-left: 10px;
+
+}
+
+.li10{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* padding-right: 36px; */
+    /* padding-left: 140px; */
+    text-align: center;
+    margin-right: 50px;
+
+}
+.span{
+    color: #FFFFFF;
+    font: sans-serif;
+    top: 36px;
+left: 620px;
+width: 16px;
+height: 16px;
+background: #DB242C 0% 0% no-repeat padding-box;
+opacity: 1;
+
+text-align: center;
+font: normal normal normal 10px/13px Noto Kufi Arabic;
+letter-spacing: 0px;
+
+}
+.icon-item{
+    color: #434242;
+}
+.f{
+    /* Layout Properties */
+padding-top: 19px;
+padding-right: 8px;
+left: 575px;
+width: 23px;
+height: 14px;
+text-align: right;
+font: normal normal normal 10px/13px Noto Kufi Arabic;
+color: #707070;
+}
+.f1{
+    padding-top: 15px;
+    padding-right: 8px;
+
+left: 557px;
+width: 41px;
+height: 21px;
+    text-align: right;
+font: normal normal bold 16px/13px Noto Kufi Arabic;
+color: #DB242C;
+
+}
+.f2{
+    top: 43px;
+left: 403px;
+width: 55px;
+height: 14px;
+/* UI Properties */
+text-align: right;
+font: normal normal normal 10px/13px Noto Kufi Arabic;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
+.border1{
+    top: 844px;
+    left: 1426px;
+    width: 260px;
+    border: 2px solid #F7F7F7;
+    border-radius: 15px;
+    opacity: 1;
+    background: #FFFFFF;
+    display: inline-block;
+    padding: 1px;
+
+
+}
+.b-marka{
+    top: 2227px;
+left: 1538px;
+font-size: 24px;
+text-align: right ;
+color: #434242;
+margin-right: 20px;
+margin-top: 8px;
+
+}
+.Show{
+    top: 2236px;
+left: 238px;
+
+text-align: left;
+font: normal normal normal 12px/13px Noto Kufi Arabic;
+color: #434242;
+}
+.img2{
+    top: 844px;
+    left: 1426px;
+    width: 250px;
+    height: 250px;
+
+}
+.border2{
+    border: 2px solid #ccc;
+    border-radius: 5px;
+
+}
+.img3{
+    top: 1934px;
+left: 1504px;
+width: 160px;
+height: 160px;
+/* UI Properties */
+background: #FDF0EA 0% 0% no-repeat padding-box;
+}
+.img5{
+    background: #ECFFEC 0% 0% no-repeat padding-box;  
+    list-style-position: none;
+    display: block;
+    margin-right:5px;
+    padding: 0px;
+    
+}
+.img4{
+   top: 1979px;
+left: 1549px;
+width: 96px;
+height: 96px;
+margin: 30px;
+
+}
+.img6{
+    background: #FFFCEB 0% 0% no-repeat padding-box;  
+    list-style-position: none;
+    display: block;
+    margin-right:5px;
+    padding: 0px;
+}
+.img7{
+    background: #FFF3EB 0% 0% no-repeat padding-box;  
+    list-style-position: none;
+    display: block;
+    margin-right:5px;
+    padding: 0px;
+}
+.img8{
+    background: #FBFFEE 0% 0% no-repeat padding-box;  
+    list-style-position: none;
+    display: block;
+    margin-right:5px;
+    padding: 0px;
+}
+.img9{
+    background: #DB242C 0% 0% no-repeat padding-box;  
+    text-align: center;
+    color: #FFFFFF;
+    padding:60px ;
+    font-size:13px;
+    text-align: center;
+    list-style-position: none;
+    display: block;
+    margin-right:20px;
+    
+}
+
+.marka {
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.marka .marka-item > div {
+    width: 100%;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 10px !important;
+}
+.marka .marka-item > div img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    object-fit: contain;
+}
+
+.p1{
+    top: 775px;
+    left: 1563px;
+    width: 127px;
+    height: 32px;
+    /* UI Properties */
+    text-align: right;
+    font: bold 24px/13px ;
+    color: #434242;
+    opacity: 1;
+    margin-right: 110px;
+    margin-top: 5px;
+}
+
+
+.c{
+    display: flex;
+    justify-content: space-between;
+}
+.text-light {
+    color: var(--light) !important;
+}
+.bg-black {
+    background-color: #141414 !important;
+}
+.text-light {
+    color: #f8f9fa!important;
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}
+.text-light {
+    color: #f8f9fa!important;
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    user-select: none!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+
+body {
+    margin: 0;
+    /* font-family: Poppins, Helvetica, sans-serif; */
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #1b1b28;
+    background-color: #fff;
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: right;
+    background-color: #fff;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+
+
+
+.pb-7, .py-7, .p-7 {
+    padding-bottom: 5rem;
+}
+.text-light {
+    color: var(--light) !important;
+}
+.bg-black {
+    background-color: #141414 !important;
+}
+.text-light {
+    color: #f8f9fa!important;
+}
+
+.pt-3, .py-3 {
+    padding-top: 1rem!important;
+}
+.text-light {
+    color: #f8f9fa!important;
+}
+
+.pt-3, .py-3 {
+    padding-top: 1rem!important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    user-select: none!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+body {
+    margin: 0;
+    /* font-family: Poppins, Helvetica, sans-serif; */
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #1b1b28;
+    background-color: #fff;
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: right;
+    background-color: #fff;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.subscribe{
+    background: #DB242C 0% 0% no-repeat padding-box;
+border-radius: 4px;
+opacity: 1;
+}
+.fa-brands{
+color: #ffffff;
+}
+
+.icon-item{
+    color: #434242;
+}
+.fa-solid.fa-user{
+    color: #434242;
+
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+.material-symbols-rounded{
+    font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;
+  color: #D5D5D5
+
+  
+}
+
+span.size-24 {
+    font-size: 30px;
+  }
+
+  .n1{
+    padding-top: 15px;
+  }
+
+ 
+  .buttonIn {
+      width: 500px;
+      position: relative;
+  }
+  
+  input {
+      margin: 0px;
+      margin-left: 150px;
+      outline: none;
+      border-radius: 4px;
+      width: 286px !important;
+height: 48px !important;
+  }
+  
+  .button {
+      position: absolute;
+    
+      border-radius: 4px;
+      right: 16rem;
+      z-index: 2;
+      border: none;
+      width: 65px;
+      height: 43px;
+      cursor: pointer;
+      color: white;
+      background-color: #DB242C;
+      transform: translateX(5px);
+  }
+  .n2 {
+    float: right;
+    padding-left:1px;
+  }
+  .fa-brands.fa-youtube {
+    background-color: #D92424;
+    border-radius: 50%;
+    padding: 10px;
+    width: 32px;
+    height: 32px;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+
+
+}
+  .fa-brands.fa-instagram {
+    background-color: #A42872;
+    border-radius: 50%;
+    padding: 10px;
+    width: 32px;
+    height: 32px;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+
+  }
+  .fa-brands.fa-twitter{
+    background-color: #6799ED;
+    border-radius: 50%;
+    padding: 10px;
+    width: 32px;
+    height: 32px;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+
+  }
+  .fa-brands.fa-facebook-f{
+    background-color: #4A5395;
+    border-radius: 50%;
+    padding: 10px;
+    width: 32px;
+    height: 32px;
+    display:flex;
+   align-items:center;
+   justify-content:space-around;
+
+  }
+  .fa-brands.fa-tiktok{
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    padding: 10px;
+    color: #000000;
+    width: 32px;
+    height: 32px;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+
+    
+  }
+  .ul {
+    list-style-position: none;
+    display: block;
+    margin: -7px;
+    padding: 0px;
+}
+
+[dir='rtl'] .slick-prev {
+    right: 10px;
+    left: auto;
+    z-index: 1;
+    color: #000;
+
+}
+
+  
+[dir='rtl'] .slick-next{
+    right: auto;
+    left: 10px;
+    z-index: 1;
+color: #000;
+}
+  
+[dir='rtl'] .slick-next.day{
+    right: auto;
+    left: -10px;
+    z-index: 1;
+color: #000;
+}
+.dis{
+   text-align:right ;
+     border: 1px;
+    width: 61px;
+    height: 23px;
+border-radius: 4px 0px 0px 4px;
+     background-color: #DB242C;
+     color: #ffffff;
+     text-align: center;
+     font-size: 12px;
+     margin-top: 5px;
+
+}
+
+ .slick-prev:after:hover,
+ .slick-next:after:hover{
+
+    font-family: "slick";
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.75;
+  color: #D92424;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0 -50px;
+    } 
+    
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.75;
+  color: #ccc;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0 -50px;
+}
+
+
+
+.day .slick-prev:hover::before, .day .slick-next:hover::before {
+    color: #D92424;
+}
+.cover .slick-prev:hover::before, .cover .slick-next:hover::before {
+    color: #D92424;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
