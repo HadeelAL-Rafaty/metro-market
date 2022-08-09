@@ -7,8 +7,8 @@
           arrows: true
         });
         $('.day').slick({
-          slidesToShow: 4,
-          slidesToScroll: 3,
+          slidesToShow: 5,
+          slidesToScroll: 5,
           rtl: true,
           arrows: true
         });
